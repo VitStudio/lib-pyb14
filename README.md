@@ -31,7 +31,12 @@ Install the library locally
 ```zsh
 pip install dist/sngtolib-0.1.2-py3-none-any.whl
 ```
-
+Once you have installed your Python library, you can import it using:
+```zsh
+import sngtolib
+ #or
+from sngtolib import sngto
+```
 Build for production
 
 ```zsh
