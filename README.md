@@ -1,3 +1,5 @@
+# SNGTOLIB
+## _Lib số nguyên tố và các hàm liên quan đến số nguyên tố trong Python 3_
 <div align="center">
 
 
