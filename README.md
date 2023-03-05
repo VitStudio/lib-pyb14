@@ -1,12 +1,11 @@
 # SNGTOLIB
-## _Lib số nguyên tố và các hàm liên quan đến số nguyên tố trong Python 3_
+### _Lib số nguyên tố và các hàm liên quan đến số nguyên tố trong Python 3_
 <div align="center">
 
 
 
-[![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://nuro.dev)
-[![License](https://img.shields.io/badge/-mit-red.svg?longCache=true&style=for-the-badge)](https://github.com/tdemapp/website/blob/master/LICENSE)
-[![Website](https://img.shields.io/badge/Deploy-brightgreen.svg?logo=vercel&longCache=true&style=for-the-badge)](https://vercel.com/import/project?template=https://github.com/nurodev/nuro.dev)
+[![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://daivs.gitbook.io/e-docs)
+[![License](https://img.shields.io/github/license/vitstudio/lib-pyb14?style=for-the-badge)](https://github.com/VitStudio/lib-pyb14/edit/main/LICENSE)
 [![FORK](https://img.shields.io/github/last-commit/VitStudio/lib-pyb14?style=for-the-badge)](https://github.com/VitStudio/lib-pyb14/commit/main)
 
 </div>
