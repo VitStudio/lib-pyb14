@@ -1,7 +1,7 @@
 <div align="center">
 
 <a target="_blank" href="https://nuro.dev">
-    <img alt='Website' src="./public/blog/hello_world/screenshot.png" />
+    <img alt='Website' src="#" />
 </a>
 
 [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://nuro.dev)
@@ -16,7 +16,7 @@
 Clone the repository
 
 ```zsh
-git clone https://github.com/nurodev/nuro.dev.git
+git clone https://github.com/VitStudio/lib-pyb14.git
 ```
 
 Install dependencies
@@ -29,7 +29,7 @@ npm install
 yarn
 ```
 
-Start the development server
+Start the development file
 
 ```zsh
 npm run dev
@@ -43,8 +43,4 @@ Build for production
 
 ```zsh
 npm run build
-
-# Or using Yarn
-
-yarn build
 ```
