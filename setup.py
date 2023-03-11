@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 setup(
     name='sngtolib',
     packages=find_packages(include=['sngtolib']),
-    version='0.1.2',
+    version='0.1.3',
     description='Lib số nguyên tố và các hàm liên quan đến số nguyên tố trong Python 3',
     author='DavidBisky',
     license='Mozilla Public License Version 2.0',
@@ -24,5 +24,6 @@ Note that you could also publish your library to an internal file system on intr
 Once you have installed your Python library, you can import it using:
 import mypythonlib
 from mypythonlib import myfunctions
+source venv/bin/activate
 
 """
