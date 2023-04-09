@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<truybais>
+	<tb id="t01">
+		<ngay>Ngay: 04/04/2023</ngay>
+        <xeploai>Xep loai: C</xeploai>
+        <nhanxet>NX: Chep 1 lan</nhanxet>
+        <danhgia>Chua dat</danhgia>
+	</tb>
+	<tb id="t02">
+		<ngay>Ngay: 04/04/2023</ngay>
+        <xeploai>Xep loai: C</xeploai>
+        <nhanxet>NX: Chep 1 lan</nhanxet>
+        <danhgia>Chua dat</danhgia>
+	</tb>
+    <tb id="t03">
+		<ngay>09/04/2023</ngay>
+        <xeploai></xeploai>
+        <nhanxet></nhanxet>
+        <danhgia></danhgia>
+	</tb>
+</truybais>

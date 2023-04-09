@@ -2,9 +2,12 @@ from setuptools import find_packages, setup
 setup(
     name='sngtolib',
     packages=find_packages(include=['sngtolib']),
-    version='0.1.3',
+    version='1.2',
     description='Lib số nguyên tố và các hàm liên quan đến số nguyên tố trong Python 3',
-    author='DavidBisky',
+    author='David Bisky',
+    author_email='richardvu12391@gmail.com',
+    keywords='số nguyên tố',
+    url='https://github.com/VitStudio/lib-pyb14',
     license='Mozilla Public License Version 2.0',
     install_requires=[],
     setup_requires=['pytest-runner'],
@@ -25,5 +28,6 @@ Once you have installed your Python library, you can import it using:
 import mypythonlib
 from mypythonlib import myfunctions
 source venv/bin/activate
-
+python setup.py bdist_wheel
+pip install /path/to/wheelfile.whl
 """
