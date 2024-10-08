@@ -169,8 +169,9 @@ def scrape_and_save_pdf(base_url: str, doc_info: DocumentInfo) -> bool:
 
 def main():
     base_url = "https://media.ctump.edu.vn/DocImage.axd"
-    
+    ver = 1
     print("=== Document Scraper ===")
+    print(f"Version {ver}")
     print("--- Input Phase ---")
     num_documents = get_valid_integer_input("Enter how many documents to download: ")
     
